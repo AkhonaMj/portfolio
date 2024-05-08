@@ -13,7 +13,6 @@ img{
 
 .bgimage {
     height:100vh;
-    background: url('/g');
     background-size:cover;
     position:relative;
 
